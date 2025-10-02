@@ -597,9 +597,6 @@ const Dashboard = () => {
         aria-label="Page footer"
       >
         <div className="flex flex-col md:flex-row items-center justify-between gap-3">
-          <p className="text-sm text-gray-600 dark:text-gray-400">
-            © 2025 Team Pulse. All rights reserved.
-          </p>
           <div className="flex items-center space-x-4 text-sm">
             <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">Privacy</a>
             <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">Terms</a>
